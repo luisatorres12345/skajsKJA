@@ -1,0 +1,8 @@
+Saber usar la terminal es fundamental porque permite navegar con rapidez entre carpetas y archivos.
+También ayuda a organizar un proyecto de manera ordenada y profesional.
+Cuando se trabaja en equipo, una estructura clara facilita la colaboración y evita confusiones.
+La terminal reduce el tiempo necesario para realizar tareas repetitivas.
+Además, muchos entornos de desarrollo dependen de comandos para ejecutar procesos y revisar cambios.
+Aprender a usarla fortalece la autonomía del desarrollador frente a problemas técnicos.
+También mejora la comprensión de cómo funcionan los sistemas operativos y los repositorios.
+Por eso, dominar la terminal es una habilidad clave para cualquier persona que desee desarrollar software.

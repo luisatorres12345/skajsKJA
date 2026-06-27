@@ -1,0 +1,11 @@
+Pregunta 1:
+B. Ejecutar comandos para interactuar con el sistema
+
+Pregunta 2:
+B. Muestra la ubicación actual dentro del sistema de carpetas
+
+Pregunta 3:
+C. ls
+
+Pregunta 4:
+B. mkdir
